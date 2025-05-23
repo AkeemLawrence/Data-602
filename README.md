@@ -1,5 +1,5 @@
 # Data-602
-Advanced Programming techniques in Python and SQl
+Advanced Programming techniques in Python and SQL
 
 Course Title
 Advanced Programming Techniques
